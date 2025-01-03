@@ -1,6 +1,6 @@
-## Rinidh (Me)
+## Rinidh
 ### Intro
-- A self-taught developer from one of the lanlocked country, Uganda.
+- A self-taught developer from one of the landlocked country, Uganda.
 
 ### Interests
 - Web dev, UI/UX design and Tech-gadgets with cutting-edge technology
