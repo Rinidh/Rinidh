@@ -3,16 +3,14 @@
 - A self-taught developer from the heart of Africa, Uganda.
 
 ### Skills
-- HTML 5, CSS 3, React, Node JS, Mongo DB, Chakra UI, Tailwind CSS
+- React.JS, Node.JS, Mongo DB,Version Control (Git) Chakra UI, Tailwind CSS
 
 ### Currently
-- Dveloping Chikubu Shoppers website; a simple fast light weight web application for e-marketting by supermarkets and hyper-markets.
+- In 2026, developing "simple-orders-tracker" for local Ugandan home businesses of snacks; to enable tracking status of each order, payments, weekly summarizes, budgets and AI assisted planning
 
 ### Interests
-- Web dev, UI/UX design, Tech-gadgets with cutting-edge technology, spiritualism, self-realization, reading Hindu/Vedic philosophy and literature
-
-### Why Tech
-- The contemporary world is leaning against tech in each and every field, why not make tech my field of interest
+- MERN Stack Web dev, UI/UX design, Solving local business problems with software, Spirituality, Tech-gadgets with cutting-edge technology
 
 ### Email
 - Gmail: rinidhdhokia@gmail.com or dhokiarinidh@gmail.com
+- LinkedIn: www.linkedin.com/in/dhokiarinidh
